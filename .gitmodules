@@ -1,0 +1,3 @@
+[submodule "car-mirrors"]
+	path = car-mirrors
+	url = ../car-mirrors
